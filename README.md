@@ -16,3 +16,6 @@ Nos interesa explorar las transiciones de color y luminosidad para representar l
 https://processing.org/examples/radialgradient.html
 
 La intención es combinar los tres referentes en un mismo sistema de programación, integrando el crecimiento de estructuras orgánicas, los movimientos aleatorios y las transiciones cromáticas. A partir de esta base, podremos modificar diferentes parámetros para generar tres composiciones audiovisuales distintas, manteniendo una misma identidad visual y temática.
+
+DESARROLLO DE LA PIEZA FINAL
+Como resultado del proceso de experimentación con Processing, hemos desarrollado tres piezas audiovisuales que combinan el crecimiento orgánico de árboles y raíces con la aparición progresiva de flores de estética pixelada. Las ramificaciones se expanden hasta ocupar prácticamente todo el lienzo, creando composiciones abstractas y dinámicas que contrastan las formas naturales con un lenguaje visual digital. Acompañamos estas estructuras con un degradado en constante movimiento y exploramos tres variaciones cromáticas: rosa, naranja y azul eléctrico. Finalmente, adaptamos las animaciones al formato vertical y las aplicamos a diferentes mockups publicitarios para visualizar su funcionamiento en espacios reales.
